@@ -1,7 +1,7 @@
 const ejecutar = document.getElementById('button');
 
 const alerta = () => {
-    alert('Hola a todos');
+    alert('Bienvenido a la pagina web');
 };
 
 ejecutar.addEventListener('click', alerta);
