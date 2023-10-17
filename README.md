@@ -7,3 +7,4 @@ parrafo 2 uno de la rama feature de un posible rebase
 parrafo 3 uno de la rama feature de un posible rebase
 parrafo 1 uno de la rama feature de un posible merge
 parrafo 2 uno de la rama feature de un posible merge
+parrafo 3 uno de la rama feature de un posible merge
